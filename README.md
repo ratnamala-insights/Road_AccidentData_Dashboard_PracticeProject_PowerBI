@@ -1,5 +1,8 @@
 # Road_AccidentData_Dashboard_PracticeProject_PowerBI
 
+![Uploading image.png…]()
+
+
 **Project Overview**
 This repository contains a practice data analytics project developed using Power BI to analyze road accident data and understand accident patterns, casualty distribution, and risk factors across different conditions. The dashboard transforms raw accident data into interactive visual insights to help explore accident severity, vehicle involvement, road conditions, and geographic accident distribution.
 
