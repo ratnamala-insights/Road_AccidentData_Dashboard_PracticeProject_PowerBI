@@ -1,6 +1,7 @@
 # Road_AccidentData_Dashboard_PracticeProject_PowerBI
 
-![Uploading image.png…]()
+<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/336a7ad0-0d52-4903-8538-1caa8647ca3f" />
+
 
 
 **Project Overview**
